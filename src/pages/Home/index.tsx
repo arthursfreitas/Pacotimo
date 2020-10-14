@@ -1,7 +1,10 @@
 import React from 'react';
+import Card from '../../components/Card';
 
 const Home: React.FC = () => {
-  return (<p>Home Page</p>);
+  return (
+    <Card/>
+  );
 }
 
 export default Home;
