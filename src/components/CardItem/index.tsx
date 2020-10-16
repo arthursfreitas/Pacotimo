@@ -4,10 +4,10 @@ import { CardContent, CardInformation, CardText, CardDateText } from './styles'
 export default function CardItem() {
   return (
     <CardContent>
-      <img src="https://123milhas.com/img/best-destinations/city/melhores-destinos-brasilia.jpg" alt="" />
+      <img src="https://123milhas.com/img/best-destinations/city/melhores-destinos-porto-alegre.jpg" alt="" />
       <CardInformation>
         <CardText>
-          <h3>Brasilia</h3>
+          <h3>Rio de Janeiro</h3>
           <p>R$ 1.678,39</p>
         </CardText>
         <CardDateText>
